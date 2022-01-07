@@ -1,0 +1,249 @@
+body {
+    color: #333333;
+    font-family: "Arial";
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0 16px;
+max-height: 800px;
+    /*display: flex;*/
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+footer {
+    color: #888888;
+    border-top: 1px solid #666666;
+    background: #fff;
+    padding: 16px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.portrait {
+    width: 250px;
+}
+
+.main-content {
+    flex-grow: 1;
+}
+
+#home_header {
+	font-family: Arial;
+        font-size: 75px;
+        font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 10px;
+      }
+
+#home_weather {
+        font-family: Arial;
+        font-size: 16px;
+        color: #5a5a5a;
+	padding: auto;
+    	margin-bottom: auto;
+	background: white;
+	height: 25px;
+	border: none
+      }
+
+#home_about {
+        font-family: Arial;
+        font-size: 16px;
+        color: #5a5a5a;
+	padding: auto;
+    	margin-bottom: auto;
+	background: white;
+	height: 25px;
+	border: none
+      }
+
+#home_help {
+        font-family: Arial;
+        font-size: 16px;
+        color: #5a5a5a;
+	padding: auto;
+    	margin-bottom: auto;
+	background: white;
+	height: 25px;
+	border: none
+      }
+
+#about_header {
+	font-family: Arial;
+        font-size: 75px;
+        font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+#about_weather {
+        font-family: Arial;
+        font-size: 16px;
+        color: #5a5a5a;
+	padding: auto;
+    	margin-bottom: auto;
+	background: white;
+	height: 25px;
+	border: none
+      }
+
+#about_about {
+        font-family: Arial;
+        font-size: 16px;
+        color: #5a5a5a;
+	padding: auto;
+    	margin-bottom: auto;
+	background: white;
+	height: 25px;
+	border: none
+      }
+
+#about_help {
+        font-family: Arial;
+        font-size: 16px;
+        color: #5a5a5a;
+	padding: auto;
+    	margin-bottom: auto;
+	background: white;
+	height: 25px;
+	border: none
+      }
+
+#help_header {
+	font-family: Arial;
+        font-size: 75px;
+        font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+#help_weather {
+        font-family: Arial;
+        font-size: 16px;
+        color: #5a5a5a;
+	padding: auto;
+    	margin-bottom: auto;
+	background: white;
+	height: 25px;
+	border: none
+      }
+
+#help_about {
+        font-family: Arial;
+        font-size: 16px;
+        color: #5a5a5a;
+	padding: auto;
+    	margin-bottom: auto;
+	background: white;
+	height: 25px;
+	border: none
+      }
+
+#help_help {
+        font-family: Arial;
+        font-size: 16px;
+        color: #5a5a5a;
+	padding: auto;
+    	margin-bottom: auto;
+	background: white;
+	height: 25px;
+	border: none
+      }
+
+#Weather_Homepage_ui_1-text {
+	margin-top: 48px;
+	width: 300px;
+	height: 40px;
+}
+
+#Weather_Homepage_ui_1-button {
+	width: 80px;
+	background: #085c12;
+	color: #BEBEBE;
+	height: 40px;
+	font-size: 16px;
+	border: none;
+	margin-top: 48px;
+}
+
+#Weather_Homepage_ui_1-button:focus{
+    outline:none !important;
+}
+
+#home_weather:focus{
+    outline:none !important;
+}
+
+#home_about:focus{
+    outline:none !important;
+}
+
+#home_help:focus{
+    outline:none !important;
+}
+
+#about_weather:focus{
+    outline:none !important;
+}
+
+#about_about:focus{
+    outline:none !important;
+}
+
+#about_help:focus{
+    outline:none !important;
+}
+
+#help_weather:focus{
+    outline:none !important;
+}
+
+#help_about:focus{
+    outline:none !important;
+}
+
+#help_help:focus{
+    outline:none !important;
+}
+
+#Weather_Homepage_ui_1-display {
+	max-width: 700px;
+	font-size: 18px;
+	height: 150px;
+	border: none;
+	outline: none;
+	font-family: Arial;
+	color: #454545;
+}
+
+#Home_Div {
+	height: 500px;
+	margin-bottom: 5px;
+	margin-top: 15px;
+}
+
+#About_Div {
+	height: 500px;
+	margin-bottom: 5px;
+	margin-top: 15px;
+}
+
+#Help_Div {
+	height: 500px;
+	margin-bottom: 5px;
+	margin-top: 15px;
+}
+
+#About_Div p{
+	margin-top: 15px;
+	font-family: Arial;
+	font-size: 18px;
+	
+}
+
+#Help_Div p{
+	margin-top: 15px;
+	font-family: Arial;
+	font-size: 18px;
+	
+}
